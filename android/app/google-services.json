@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436061594066",
+    "project_id": "network-f898c",
+    "storage_bucket": "network-f898c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436061594066:android:a631fdc8643c92166c280b",
+        "android_client_info": {
+          "package_name": "com.thealphamerc.flutter_job_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436061594066-58pekbq48k7rgrsu4iu4rbte7k4t1skb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDetNi51_l33wsLBJfFsP0oXC7wE-Tw1EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436061594066-58pekbq48k7rgrsu4iu4rbte7k4t1skb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
